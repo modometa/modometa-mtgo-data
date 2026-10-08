@@ -1316,6 +1316,136 @@
     },
     {
       "Date": "2026-10-07T00:00:00+00:00",
+      "Player": "psdelver",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0711129#deck_psdelver",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dream Beavers"
+        },
+        {
+          "Count": 3,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hidden Lair"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Preacher of the Schism"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wondrous Wasp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 2,
+          "CardName": "We Say Thee Nay!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yuriko, Hope from the Shadows"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vren, the Relentless"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-07T00:00:00+00:00",
       "Player": "kthanakit26",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0711129#deck_kthanakit26",
@@ -2493,6 +2623,344 @@
         {
           "Count": 1,
           "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-07T00:00:00+00:00",
+      "Player": "Lapsy",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0711129#deck_Lapsy",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fire-Brained Scheme"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 2,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 7,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stingcaster Mage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vibrant Outburst"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scorching Shot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vengeful Tracker"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-07T00:00:00+00:00",
+      "Player": "PNascimento",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0711129#deck_PNascimento",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom of the Spirit Dragon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinmaw Stormbrood"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Boros Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Split Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-07T00:00:00+00:00",
+      "Player": "matiaskm",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0711129#deck_matiaskm",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Aang's Iceberg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ajani Unrelenting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ajani, Outland Chaperone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Caretaker's Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cori Mountain Monastery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gideon's Memorial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Solitary Cell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sundown Pass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Way of the Pyromancer"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Settle the Wreckage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
         }
       ]
     }

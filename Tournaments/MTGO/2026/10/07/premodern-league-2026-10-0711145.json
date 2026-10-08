@@ -899,6 +899,124 @@
           "CardName": "Tsabo's Web"
         }
       ]
+    },
+    {
+      "Date": "2026-10-07T00:00:00+00:00",
+      "Player": "Navas",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-0711145#deck_Navas",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Coastal Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Decree of Justice"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dust Bowl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fact or Fiction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Conclave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mana Leak"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prohibit"
+        },
+        {
+          "Count": 3,
+          "CardName": "Standstill"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of God"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Circle of Protection: Red"
+        },
+        {
+          "Count": 2,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi's Response"
+        }
+      ]
     }
   ],
   "Rounds": [],
