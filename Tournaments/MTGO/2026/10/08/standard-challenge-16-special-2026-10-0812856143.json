@@ -3,13 +3,246 @@
     "Date": "2026-10-08",
     "Name": "Standard Challenge 16 Special",
     "Uri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143",
-    "Formats": "Standard"
+    "Formats": "Standard",
+    "PlayerCount": 30
   },
   "Decks": [
     {
       "Date": "2026-10-08T10:00:00+00:00",
-      "Player": "J_tekt",
+      "Player": "Atagomax",
       "Result": "1st Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_Atagomax",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Braided Net"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clay-Fired Bricks"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Perilous Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Repurposing Bay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simulacrum Synthesizer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spring-Loaded Sawblades"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fire Crystal"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Irencrag"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 4,
+          "CardName": "United Battlefront"
+        },
+        {
+          "Count": 2,
+          "CardName": "Uthros, Titanic Godcore"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Split Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spring-Loaded Sawblades"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-08T10:00:00+00:00",
+      "Player": "Varo",
+      "Result": "2nd Place",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_Varo",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 4,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lumbering Worldwagon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shared Roots"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Warg Tactics"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-08T10:00:00+00:00",
+      "Player": "J_tekt",
+      "Result": "3rd Place",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_J_tekt",
       "Mainboard": [
         {
@@ -135,7 +368,7 @@
     {
       "Date": "2026-10-08T10:00:00+00:00",
       "Player": "BurnMann",
-      "Result": "2nd Place",
+      "Result": "4th Place",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_BurnMann",
       "Mainboard": [
         {
@@ -284,142 +517,8 @@
     },
     {
       "Date": "2026-10-08T10:00:00+00:00",
-      "Player": "Atagomax",
-      "Result": "3rd Place",
-      "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_Atagomax",
-      "Mainboard": [
-        {
-          "Count": 2,
-          "CardName": "Braided Net"
-        },
-        {
-          "Count": 4,
-          "CardName": "Castle Doom"
-        },
-        {
-          "Count": 3,
-          "CardName": "Clay-Fired Bricks"
-        },
-        {
-          "Count": 4,
-          "CardName": "Cryogen Relic"
-        },
-        {
-          "Count": 4,
-          "CardName": "Floodfarm Verge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Meticulous Archive"
-        },
-        {
-          "Count": 4,
-          "CardName": "Perilous Snare"
-        },
-        {
-          "Count": 1,
-          "CardName": "Petrified Hamlet"
-        },
-        {
-          "Count": 3,
-          "CardName": "Pinnacle Starcage"
-        },
-        {
-          "Count": 3,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 3,
-          "CardName": "Repurposing Bay"
-        },
-        {
-          "Count": 1,
-          "CardName": "Seam Rip"
-        },
-        {
-          "Count": 4,
-          "CardName": "Simulacrum Synthesizer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Spring-Loaded Sawblades"
-        },
-        {
-          "Count": 4,
-          "CardName": "Starting Town"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Fire Crystal"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Irencrag"
-        },
-        {
-          "Count": 4,
-          "CardName": "The Mind Stone"
-        },
-        {
-          "Count": 4,
-          "CardName": "United Battlefront"
-        },
-        {
-          "Count": 2,
-          "CardName": "Uthros, Titanic Godcore"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 1,
-          "CardName": "Ghost Vacuum"
-        },
-        {
-          "Count": 2,
-          "CardName": "Negate"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pinnacle Starcage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rest in Peace"
-        },
-        {
-          "Count": 3,
-          "CardName": "Seam Rip"
-        },
-        {
-          "Count": 2,
-          "CardName": "Split Up"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spring-Loaded Sawblades"
-        },
-        {
-          "Count": 2,
-          "CardName": "Torpor Orb"
-        },
-        {
-          "Count": 2,
-          "CardName": "Voice of Victory"
-        }
-      ]
-    },
-    {
-      "Date": "2026-10-08T10:00:00+00:00",
       "Player": "yolad",
-      "Result": "4th Place",
+      "Result": "5th Place",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_yolad",
       "Mainboard": [
         {
@@ -539,104 +638,6 @@
         {
           "Count": 4,
           "CardName": "Voice of Victory"
-        }
-      ]
-    },
-    {
-      "Date": "2026-10-08T10:00:00+00:00",
-      "Player": "Varo",
-      "Result": "5th Place",
-      "AnchorUri": "https://www.mtgo.com/decklist/standard-challenge-16-special-2026-10-0812856143#deck_Varo",
-      "Mainboard": [
-        {
-          "Count": 3,
-          "CardName": "Ba Sing Se"
-        },
-        {
-          "Count": 1,
-          "CardName": "Demolition Field"
-        },
-        {
-          "Count": 4,
-          "CardName": "Earthbender Ascension"
-        },
-        {
-          "Count": 4,
-          "CardName": "Escape Tunnel"
-        },
-        {
-          "Count": 4,
-          "CardName": "Esper Origins"
-        },
-        {
-          "Count": 4,
-          "CardName": "Fabled Passage"
-        },
-        {
-          "Count": 14,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 4,
-          "CardName": "Icetill Explorer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Llanowar Elves"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lumbering Worldwagon"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mightform Harmonizer"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mossborn Hydra"
-        },
-        {
-          "Count": 3,
-          "CardName": "Sapling Nursery"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sazh's Chocobo"
-        },
-        {
-          "Count": 2,
-          "CardName": "Shared Roots"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 1,
-          "CardName": "Keen-Eyed Curator"
-        },
-        {
-          "Count": 4,
-          "CardName": "Meltstrider's Resolve"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sapling Nursery"
-        },
-        {
-          "Count": 2,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 2,
-          "CardName": "Surrak, Elusive Hunter"
-        },
-        {
-          "Count": 2,
-          "CardName": "Torpor Orb"
-        },
-        {
-          "Count": 3,
-          "CardName": "Warg Tactics"
         }
       ]
     },
@@ -3839,7 +3840,58 @@
       ]
     }
   ],
-  "Rounds": [],
+  "Rounds": [
+    {
+      "RoundName": "Quarterfinals",
+      "Matches": [
+        {
+          "Player1": "Atagomax",
+          "Player2": "JV_7777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BurnMann",
+          "Player2": "unagieel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "yolad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "J_tekt",
+          "Player2": "Pinnu",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Semifinals",
+      "Matches": [
+        {
+          "Player1": "Atagomax",
+          "Player2": "BurnMann",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "J_tekt",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Finals",
+      "Matches": [
+        {
+          "Player1": "Atagomax",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ],
   "Standings": [
     {
       "Rank": 1,

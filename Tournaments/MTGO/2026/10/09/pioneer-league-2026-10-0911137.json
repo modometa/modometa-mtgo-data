@@ -1,0 +1,138 @@
+{
+  "Tournament": {
+    "Date": "2026-10-09",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-0911137",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "TheTokePope",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-0911137#deck_TheTokePope",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 2,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oni-Cult Anvil"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shambling Ghast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shrapnel Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Acolyte of Flame"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Charm"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
