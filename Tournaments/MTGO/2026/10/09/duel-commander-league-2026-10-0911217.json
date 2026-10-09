@@ -1,0 +1,390 @@
+{
+  "Tournament": {
+    "Date": "2026-10-09",
+    "Name": "Duel Commander League",
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-league-2026-10-0911217",
+    "Formats": "Commander"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "Shanks123",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2026-10-0911217#deck_Shanks123",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Allosaurus Shepherd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 1,
+          "CardName": "Berserk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blinkmoth Nexus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blossoming Tortoise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bumi, Unleashed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 1,
+          "CardName": "Command Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disciple of Freyalise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Domri, Anarch of Bolas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dust Bowl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Spirit Guide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exploration"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Frenzied Baloth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grove of the Burnwillows"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Headliner Scarlett"
+        },
+        {
+          "Count": 1,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inkmoth Nexus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kraza, the Swarm as One"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lair of the Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Legolas's Quick Reflexes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lotus Cobra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mawloc"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minsc & Boo, Timeless Heroes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mole Man, Moloid Master"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutable Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nissa, Who Shakes the World"
+        },
+        {
+          "Count": 1,
+          "CardName": "Orcish Lumberjack"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Vista"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrogoyf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Redirect Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rootbound Crag"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scythecat Cub"
+        },
+        {
+          "Count": 1,
+          "CardName": "Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skullclamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springheart Nantuko"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sundering Eruption"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sylvan Safekeeper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Taiga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talon Gates of Madara"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinder Wall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titania, Protector of Argoth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vibrance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 1,
+          "CardName": "Worldly Tutor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrenn and Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Toph, Greatest Earthbender"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
