@@ -8,6 +8,140 @@
   "Decks": [
     {
       "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "LunaMercury12",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0911129#deck_LunaMercury12",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Countersculpt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatehold Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 3,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorist's Sanctum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sphinx of False Conclusions"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
       "Player": "JestRight",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0911129#deck_JestRight",
@@ -165,6 +299,92 @@
         {
           "Count": 1,
           "CardName": "Strategic Betrayal"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "deleon91",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0911129#deck_deleon91",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Firebrand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plasma Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stingcaster Mage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tomik, Izzet Sparkmage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunspine Lynx"
         }
       ]
     },
@@ -1631,6 +1851,132 @@
         {
           "Count": 1,
           "CardName": "Split Up"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "OafMcNamara",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-0911129#deck_OafMcNamara",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doomsday Excruciator"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emeritus of Ideation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seasoned Cryomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 8,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorix Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 2,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Terminal Criticism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vren, the Relentless"
         }
       ]
     },

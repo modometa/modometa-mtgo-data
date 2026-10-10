@@ -2265,6 +2265,132 @@
           "CardName": "Undergrowth Leopard"
         }
       ]
+    },
+    {
+      "Date": "2026-10-09T00:00:00+00:00",
+      "Player": "cappe23",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-0911153#deck_cappe23",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Augur of Bolas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Okiba-Gang Shinobi"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
     }
   ],
   "Rounds": [],

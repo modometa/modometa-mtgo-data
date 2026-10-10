@@ -1,0 +1,322 @@
+{
+  "Tournament": {
+    "Date": "2026-10-10",
+    "Name": "Duel Commander League",
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-league-2026-10-1011217",
+    "Formats": "Commander"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-10T00:00:00+00:00",
+      "Player": "TVAmaral",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2026-10-1011217#deck_TVAmaral",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Axgard Cavalry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodfire Dwarf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bogardan Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bottle-Cap Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clown Car"
+        },
+        {
+          "Count": 1,
+          "CardName": "Command Beacon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crowd's Favor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dori, Bearer of Friends"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dwarven Bloodboiler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dwarven Grunt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dwarven Scorcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dáin Ironfoot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enslaved Dwarf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flame Slash"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flywheel Racer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fíli and Kíli, Joyous"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghostfire Slice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gogo, Mysterious Mime"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Echoes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hammerheim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Headliner Scarlett"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "High-Speed Hoverbike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Holdout Settlement"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kavaron, Memorial World"
+        },
+        {
+          "Count": 1,
+          "CardName": "Laelia, the Blade Reforged"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liberated Dwarf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 26,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Party Thrasher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plundering Barbarian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portal to Phyrexia"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Redirect Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roaming Throne"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rubble Rouser"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ruination"
+        },
+        {
+          "Count": 1,
+          "CardName": "Samut, Hazoret's Champion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shinka, the Bloodsoaked Keep"
+        },
+        {
+          "Count": 1,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smuggler's Copter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spark Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Survivors' Encampment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Synth Eradicator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tangle Wire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tezzeret, Cruel Captain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treasure Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Universal Automaton"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unlicensed Hearse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volatile Fault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voltage Surge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winter Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Óin the Brave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Magda, Brazen Outlaw"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
