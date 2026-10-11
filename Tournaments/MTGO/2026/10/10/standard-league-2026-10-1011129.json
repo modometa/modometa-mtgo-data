@@ -118,6 +118,100 @@
     },
     {
       "Date": "2026-10-10T00:00:00+00:00",
+      "Player": "Fink64",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1011129#deck_Fink64",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 7,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Viper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shock"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stingcaster Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vibrant Outburst"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Tracker"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-10T00:00:00+00:00",
       "Player": "darg24",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1011129#deck_darg24",
@@ -1039,6 +1133,234 @@
         {
           "Count": 1,
           "CardName": "Split Up"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-10T00:00:00+00:00",
+      "Player": "brainlessbandit",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1011129#deck_brainlessbandit",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Belladonna Took"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Frontline Rush"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hop to It"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 8,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Political Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Song of Totentanz"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Last Ronin's Technique"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warleader's Call"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Bilbo's Gambit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-10T00:00:00+00:00",
+      "Player": "Szach",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1011129#deck_Szach",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ardyn, the Usurper"
+        },
+        {
+          "Count": 2,
+          "CardName": "Awaken the Honored Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bringer of the Last Gift"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dredger's Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oblivious Bookworm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rapid Rescue"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Cryomancer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 2,
+          "CardName": "Terror of the Peaks"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wastewood Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Willowrush Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wistfulness"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Awaken the Honored Dead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormkeld Vanguard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wistfulness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witherbloom Charm"
         }
       ]
     }
