@@ -98,6 +98,148 @@
     },
     {
       "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "Maccaciock",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_Maccaciock",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 2,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sinister Hideout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-dûm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul Manipulation"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
       "Player": "MojitoErgoSum",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_MojitoErgoSum",
@@ -219,6 +361,96 @@
         {
           "Count": 2,
           "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "bnpbnp",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_bnpbnp",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bannerhide Krushok"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shinen of Life's Roar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Horrific Assault"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vandalblast"
         }
       ]
     },
@@ -475,6 +707,178 @@
         {
           "Count": 1,
           "CardName": "Soul Manipulation"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "Vojbe",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_Vojbe",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "KOKOLOKO3435",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_KOKOLOKO3435",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gingerbread Cabin"
+        },
+        {
+          "Count": 2,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Priest of Titania"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 11,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Timberwatch Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gleeful Sabotage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Emergence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spinewoods Paladin"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vitu-Ghazi Inspector"
         }
       ]
     },
@@ -956,6 +1360,250 @@
     },
     {
       "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "Wartico1",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_Wartico1",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Archaeomancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ash Barrens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Augur of Bolas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bender's Waterskin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glacial Floodplain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mulldrifter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Perilous Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ride's End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rimewood Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skred"
+        },
+        {
+          "Count": 7,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Volatile Fjord"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Essence Scatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Palace Sentinels"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vandalblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "Giogab92",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_Giogab92",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
       "Player": "nietoalcora",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_nietoalcora",
@@ -1273,6 +1921,258 @@
         {
           "Count": 2,
           "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "PunTheDawg",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_PunTheDawg",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 2,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispatch"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goldmire Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grim Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Razortide Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckoner's Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utrom Monitor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "aggro_jack",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1111153#deck_aggro_jack",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Terminate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancient Grudge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Evolution Witness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
         }
       ]
     }

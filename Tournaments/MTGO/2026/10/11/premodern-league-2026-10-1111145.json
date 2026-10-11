@@ -701,6 +701,112 @@
           "CardName": "Xantid Swarm"
         }
       ]
+    },
+    {
+      "Date": "2026-10-11T00:00:00+00:00",
+      "Player": "grindstone-cowboy",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1111145#deck_grindstone-cowboy",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flash of Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 2,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 17,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Peek"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Dreadnought"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stifle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thwart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vision Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Back to Basics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brain Freeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Essence Flare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        }
+      ]
     }
   ],
   "Rounds": [],
