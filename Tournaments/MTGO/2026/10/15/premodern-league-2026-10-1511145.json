@@ -1,0 +1,236 @@
+{
+  "Tournament": {
+    "Date": "2026-10-15",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1511145",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-15T00:00:00+00:00",
+      "Player": "erhnamgedd0n",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1511145#deck_erhnamgedd0n",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Barbarian Ring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darigaaz's Caldera"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devastating Dreams"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forgotten Cave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mulch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 1,
+          "CardName": "Predict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tranquil Thicket"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unearth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Werebear"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Mongrel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mind Harness"
+        },
+        {
+          "Count": 2,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smother"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-15T00:00:00+00:00",
+      "Player": "MarceloSca",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1511145#deck_MarceloSca",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Gempalm Incinerator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Goon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Lackey"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Matron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Piledriver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Ringleader"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Warchief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mogg Fanatic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mogg Flunkies"
+        },
+        {
+          "Count": 22,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Siege-Gang Commander"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Anarchy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Earthquake"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Sharpshooter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mogg Salvage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 2,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Threaten"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
