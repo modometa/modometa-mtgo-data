@@ -1,0 +1,232 @@
+{
+  "Tournament": {
+    "Date": "2026-10-16",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1611145",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "yeahnah",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1611145#deck_yeahnah",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Accumulated Knowledge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 3,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire // Ice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 8,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Psychatog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Dryad"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Meddling Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphere of Law"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Domain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tsabo's Web"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "Rainbow_",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-1611145#deck_Rainbow_",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abeyance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Attunement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Decree of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frantic Search"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intuition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Expanse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Library of Leng"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

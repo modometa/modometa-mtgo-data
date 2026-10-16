@@ -1,0 +1,520 @@
+{
+  "Tournament": {
+    "Date": "2026-10-16",
+    "Name": "Pauper League",
+    "Uri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1611153",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "carvs",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1611153#deck_carvs",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Azure Fleet Admiral"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Piracy Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steel Sabotage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "OttoSaske",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1611153#deck_OttoSaske",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Accursed Marauder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crypt Rats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defile"
+        },
+        {
+          "Count": 2,
+          "CardName": "Desert"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eviscerator's Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 1,
+          "CardName": "Golgari Rot Farm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rancid Earth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 10,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witch's Cottage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Desert"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rancid Earth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "Maccaciock",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1611153#deck_Maccaciock",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 2,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sinister Hideout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-dûm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul Manipulation"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "WizardHat",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-1611153#deck_WizardHat",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arcane Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Behold the Multiverse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Truth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Growth Spiral"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moment's Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pieces of the Puzzle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 2,
+          "CardName": "Radiant Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Respite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stream of Thought"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tangle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tangled Islet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornwood Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Trickery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

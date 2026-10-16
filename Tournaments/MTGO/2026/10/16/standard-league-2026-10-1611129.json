@@ -1,0 +1,272 @@
+{
+  "Tournament": {
+    "Date": "2026-10-16",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-10-1611129",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "SilvergillLord",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1611129#deck_SilvergillLord",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Countersculpt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 3,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 3,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorist's Sanctum"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Riverchurn Monument"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Settle the Wreckage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sphinx of False Conclusions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-16T00:00:00+00:00",
+      "Player": "Rulerofsome",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-1611129#deck_Rulerofsome",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Adagia, Windswept Bastion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Braided Net"
+        },
+        {
+          "Count": 2,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clay-Fired Bricks"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fomori Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Perilous Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Repurposing Bay"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simulacrum Synthesizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spring-Loaded Sawblades"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fire Crystal"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 4,
+          "CardName": "United Battlefront"
+        },
+        {
+          "Count": 1,
+          "CardName": "White Auracite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
