@@ -979,6 +979,124 @@
           "CardName": "Tormod's Crypt"
         }
       ]
+    },
+    {
+      "Date": "2026-10-20T00:00:00+00:00",
+      "Player": "Schranz0127",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-10-2011185#deck_Schranz0127",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boggart Trawler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demonic Tutor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grief"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mai, Scornful Striker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mental Misstep"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reanimate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strip Mine"
+        },
+        {
+          "Count": 6,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vraska's Final Mercy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Apostle's Blessing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Long Goodbye"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mindbreak Trap"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred's Edict"
+        }
+      ]
     }
   ],
   "Rounds": [],
