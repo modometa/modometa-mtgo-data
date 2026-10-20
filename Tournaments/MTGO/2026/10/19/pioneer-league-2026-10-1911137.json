@@ -465,6 +465,136 @@
           "CardName": "Vanishing Verse"
         }
       ]
+    },
+    {
+      "Date": "2026-10-19T00:00:00+00:00",
+      "Player": "Bachipandi21",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-1911137#deck_Bachipandi21",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crumb and Get It"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defiant Strike"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dig Site Inventory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elusive Otter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Favored Hoplite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hengegate Pathway"
+        },
+        {
+          "Count": 3,
+          "CardName": "Homestead Courage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Illuminator Virtuoso"
+        },
+        {
+          "Count": 2,
+          "CardName": "Informed Inkwright"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Secret Identity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sejiri Shelter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slip Out the Back"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spara's Headquarters"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ledger Shredder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Light of Hope"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser Drake"
+        }
+      ]
     }
   ],
   "Rounds": [],
