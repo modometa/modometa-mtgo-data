@@ -244,6 +244,144 @@
     },
     {
       "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "pepeteam",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2311129#deck_pepeteam",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seasoned Cryomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 3,
+          "CardName": "Theorix Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Uldaros Theorix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cruelclaw's Heist"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doomsday Excruciator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "M.O.D.O.K."
+        },
+        {
+          "Count": 2,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
       "Player": "RPA",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2311129#deck_RPA",
@@ -609,6 +747,234 @@
         {
           "Count": 1,
           "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "Nagato_Boran",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2311129#deck_Nagato_Boran",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 13,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Scouring Stormsoul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "DannyStarchild",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2311129#deck_DannyStarchild",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancestral Anger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Balmor, Battlemage Captain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Callous Sell-Sword"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drake Hatcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elusive Otter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Full Bore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Secret Identity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shore Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Turn Inside Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Ride"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dreadmaw's Ire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Full Bore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Octopus Form"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secret Identity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shore Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spell Pierce"
         }
       ]
     }

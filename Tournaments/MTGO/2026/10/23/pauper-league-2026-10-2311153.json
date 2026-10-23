@@ -8,6 +8,320 @@
   "Decks": [
     {
       "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "pavesito",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_pavesito",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Black Mage's Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckoner's Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Utrom Monitor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vandalblast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "saidin.raken",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_saidin.raken",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Big Score"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crossover Collaboration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Electric Revelation"
+        },
+        {
+          "Count": 2,
+          "CardName": "First Day of Class"
+        },
+        {
+          "Count": 4,
+          "CardName": "Geothermal Crevice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glimpse the Impossible"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Anarchomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hickory Woodlot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sandstone Needle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seething Song"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seize the Storm"
+        },
+        {
+          "Count": 5,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornscape Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 1,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "OniReject",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_OniReject",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 18,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Crimson Fleet Commodore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
       "Player": "G-Monteiro",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_G-Monteiro",
@@ -497,6 +811,174 @@
         {
           "Count": 1,
           "CardName": "Okiba-Gang Shinobi"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "Erostratus",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_Erostratus",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Elite Interceptor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Halo Hopper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leonardo, Big Brother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Martyr's Soul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Walker"
+        },
+        {
+          "Count": 17,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ramosian Rally"
+        },
+        {
+          "Count": 4,
+          "CardName": "Salt Road Packbeast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Search Party Captain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider-Man, Web-Slinger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mana Tithe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Peach Garden Oath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Revoke Existence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Charm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-23T00:00:00+00:00",
+      "Player": "helldude",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-2311153#deck_helldude",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Frogmite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gingerbrute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bushwhacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inventor's Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
         },
         {
           "Count": 2,
