@@ -1,0 +1,386 @@
+{
+  "Tournament": {
+    "Date": "2026-10-24",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-10-2411129",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-24T00:00:00+00:00",
+      "Player": "Kollslaw",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2411129#deck_Kollslaw",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 13,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sandman, Shifting Scoundrel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 3,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-24T00:00:00+00:00",
+      "Player": "crazythursday",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2411129#deck_crazythursday",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 3,
+          "CardName": "Carnivorous Cultivator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snakeskin Veil"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gigantic Big Bear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pawpatch Formation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-24T00:00:00+00:00",
+      "Player": "M2R",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2411129#deck_M2R",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ashling, Rekindled"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ill-Timed Explosion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kavaron, Memorial World"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kona, Rescue Beastie"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "North Wind Avatar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omniscience"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 4,
+          "CardName": "Uthros, Titanic Godcore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Detect Intrusion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dracogenesis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ill-Timed Explosion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "North Wind Avatar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omni-Changeling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Terror of the Peaks"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

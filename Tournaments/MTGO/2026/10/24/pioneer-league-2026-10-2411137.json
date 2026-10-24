@@ -1,0 +1,126 @@
+{
+  "Tournament": {
+    "Date": "2026-10-24",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-2411137",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-24T00:00:00+00:00",
+      "Player": "Thales",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-2411137#deck_Thales",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gnarled Professor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lair of the Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Weaver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tender Wildguide"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Great Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vastlands Scavenger"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Basic Conjuration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Germination Practicum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heroic Intervention"
+        },
+        {
+          "Count": 1,
+          "CardName": "Introduction to Annihilation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reclamation Sage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seismic Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tail Swipe"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "True Ancestry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Turn the Earth"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
