@@ -203,6 +203,108 @@
           "CardName": "Swords to Plowshares"
         }
       ]
+    },
+    {
+      "Date": "2026-10-24T00:00:00+00:00",
+      "Player": "RAV92",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-10-2411185#deck_RAV92",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basking Rootwalla"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bazaar of Baghdad"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazing Rootwalla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Commandeer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Quarter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gitaxian Probe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hollow One"
+        },
+        {
+          "Count": 4,
+          "CardName": "Master of Death"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mental Misstep"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mindbreak Trap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Serum Powder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strip Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vengevine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ravenous Trap"
+        }
+      ]
     }
   ],
   "Rounds": [],
