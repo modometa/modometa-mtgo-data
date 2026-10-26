@@ -8,6 +8,92 @@
   "Decks": [
     {
       "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "HaciendaSomosTodos",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_HaciendaSomosTodos",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Barbarian Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Vandal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Lavamancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Incinerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jackal Pup"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mogg Fanatic"
+        },
+        {
+          "Count": 9,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Earthquake"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overload"
+        },
+        {
+          "Count": 3,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
       "Player": "PTPaul",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_PTPaul",
@@ -447,6 +533,246 @@
         {
           "Count": 4,
           "CardName": "Meddling Mage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "DB_MurkPie",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_DB_MurkPie",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Corpse Dance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Diabolic Edict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gamekeeper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grand Coliseum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grizzly Fate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Innocent Blood"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Oath of Druids"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pernicious Deed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skeletal Scrying"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smother"
+        },
+        {
+          "Count": 6,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunting Echoes"
+        },
+        {
+          "Count": 3,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ravenous Baloth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skeletal Scrying"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Domain"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "prodnor",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_prodnor",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Decree of Justice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enlightened Tutor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eternal Dragon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Processor"
+        },
+        {
+          "Count": 15,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thran Dynamo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tsabo's Web"
+        },
+        {
+          "Count": 2,
+          "CardName": "Whipcorder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winter Orb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of God"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enlightened Tutor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erase"
+        },
+        {
+          "Count": 1,
+          "CardName": "Presence of the Master"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphere of Law"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
         }
       ]
     }
