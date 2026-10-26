@@ -114,6 +114,124 @@
     },
     {
       "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "Strudl420",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_Strudl420",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deranged Hermit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Diabolic Edict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dust Bowl"
+        },
+        {
+          "Count": 7,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Graveborn Muse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krosan Tusker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pernicious Deed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ravenous Baloth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ravenous Rats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Recurring Nightmare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smother"
+        },
+        {
+          "Count": 7,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vendetta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volrath's Stronghold"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wall of Blossoms"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Chainer's Edict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haunting Echoes"
+        },
+        {
+          "Count": 3,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Furnace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tranquil Domain"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
       "Player": "JohnStasis",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_JohnStasis",
@@ -239,6 +357,96 @@
         {
           "Count": 2,
           "CardName": "Upheaval"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "Martin_Oviedo",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2611145#deck_Martin_Oviedo",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abeyance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Attunement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Decree of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frantic Search"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intuition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Expanse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
         }
       ]
     }
