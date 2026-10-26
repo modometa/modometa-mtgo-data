@@ -1,0 +1,158 @@
+{
+  "Tournament": {
+    "Date": "2026-10-26",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-10-2611129",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "agentrock",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2611129#deck_agentrock",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deathcap Glade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emeritus of Abundance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Environmental Scientist"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Garruk, Veiled Butcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mosswood Dreadknight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral Zarek, Guest Lecturer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Cottage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simulacrum Shaper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thrór's Map"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vraska, the Cutting Glare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastewood Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witherbloom Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Decorum Dissertation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Outrageous Robbery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Terminal Criticism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vicious Rivalry"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
