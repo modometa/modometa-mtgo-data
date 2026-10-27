@@ -142,6 +142,104 @@
     },
     {
       "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "mltlqur",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2611129#deck_mltlqur",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boros Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 9,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "No Admittance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Bivouac"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shock"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spicy Oatmeal Pizza"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Blooming Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
       "Player": "agentrock",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2611129#deck_agentrock",
@@ -1945,6 +2043,136 @@
         {
           "Count": 1,
           "CardName": "Warg Tactics"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "Predrag133",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-10-2611129#deck_Predrag133",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ajani Resolute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enlightened Confidant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Great Arashin City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Liliana the Faultless"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moseo, Vein's New Dean"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zora, Spider Fancier"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Arena"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vicious Rivalry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
         }
       ]
     }
