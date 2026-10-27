@@ -846,6 +846,120 @@
     },
     {
       "Date": "2026-10-26T00:00:00+00:00",
+      "Player": "Cake363",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-2611137#deck_Cake363",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 3,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oni-Cult Anvil"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shrapnel Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-26T00:00:00+00:00",
       "Player": "Grenobil",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-2611137#deck_Grenobil",
