@@ -1041,6 +1041,120 @@
           "CardName": "Winter Orb"
         }
       ]
+    },
+    {
+      "Date": "2026-10-27T00:00:00+00:00",
+      "Player": "Umodian",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-2711145#deck_Umodian",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Anurid Brushhopper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arrogant Wurm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Rootwalla"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Patrol Hound"
+        },
+        {
+          "Count": 6,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Savannah Lions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tireless Tribe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Mongrel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reprisal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tsabo's Web"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winter Orb"
+        }
+      ]
     }
   ],
   "Rounds": [],
