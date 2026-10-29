@@ -477,6 +477,124 @@
           "CardName": "The Theorist, Jace Beleren"
         }
       ]
+    },
+    {
+      "Date": "2026-10-28T00:00:00+00:00",
+      "Player": "Thales",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-10-2811137#deck_Thales",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Defiler of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 18,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Garruk's Harbinger"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gather Courage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gnarled Professor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inscription of Abundance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lair of the Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Weaver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Woodland Bellower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Basic Conjuration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flourishing Grapple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Germination Practicum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reclamation Sage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seismic Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Setessan Petitioner"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Frillback"
+        },
+        {
+          "Count": 1,
+          "CardName": "True Ancestry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Turn the Earth"
+        }
+      ]
     }
   ],
   "Rounds": [],
