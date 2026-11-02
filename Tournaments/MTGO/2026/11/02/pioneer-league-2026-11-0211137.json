@@ -1,0 +1,130 @@
+{
+  "Tournament": {
+    "Date": "2026-11-02",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-0211137",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-02T00:00:00+00:00",
+      "Player": "Thales",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-0211137#deck_Thales",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elder Gargaroth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Field Trip"
+        },
+        {
+          "Count": 16,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Garruk's Harbinger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gnarled Professor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inscription of Abundance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lair of the Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Monstrous Emergence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spider Manifestation"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Germination Practicum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heroic Intervention"
+        },
+        {
+          "Count": 1,
+          "CardName": "Introduction to Annihilation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reclamation Sage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seismic Sense"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shared Roots"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Frillback"
+        },
+        {
+          "Count": 1,
+          "CardName": "True Ancestry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Turn the Earth"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
