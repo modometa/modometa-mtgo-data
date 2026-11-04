@@ -517,6 +517,116 @@
           "CardName": "The Ooze"
         }
       ]
+    },
+    {
+      "Date": "2026-11-04T00:00:00+00:00",
+      "Player": "GabbaGandalf",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0411129#deck_GabbaGandalf",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Basilisk Collar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragonfire Blade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dwalin, Weaponmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dáin's Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kíli the Resourceful"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thorin, Mountain-king"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anzrag's Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dawn's Truce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        }
+      ]
     }
   ],
   "Rounds": [],
