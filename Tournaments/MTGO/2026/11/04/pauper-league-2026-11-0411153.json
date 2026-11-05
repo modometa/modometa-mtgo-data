@@ -831,6 +831,222 @@
           "CardName": "Viridian Longbow"
         }
       ]
+    },
+    {
+      "Date": "2026-11-04T00:00:00+00:00",
+      "Player": "DJ_DeSu",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-11-0411153#deck_DJ_DeSu",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gingerbrute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bushwhacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inventor's Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 13,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rally at the Hornburg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-04T00:00:00+00:00",
+      "Player": "NRGCC_Missouri_P",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-11-0411153#deck_NRGCC_Missouri_P",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elves of Deep Shadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinder Wall"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jack-o'-Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nylea's Disciple"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undergrowth Leopard"
+        }
+      ]
     }
   ],
   "Rounds": [],
