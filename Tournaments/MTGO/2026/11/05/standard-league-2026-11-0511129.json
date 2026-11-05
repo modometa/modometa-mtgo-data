@@ -8,6 +8,128 @@
   "Decks": [
     {
       "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "sianes",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_sianes",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Basilisk Collar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bofur, Reliable Guardian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boros Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragonfire Blade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwalin, Weaponmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dáin's Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kíli the Resourceful"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Samurai's Katana"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thorin, Mountain-king"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anzrag's Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mjölnir, Hammer of Thor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shattered Acolyte"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
       "Player": "flj38858",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_flj38858",
@@ -361,6 +483,148 @@
         {
           "Count": 3,
           "CardName": "Surrak, Elusive Hunter"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "Kritik",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_Kritik",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Bounce Off"
+        },
+        {
+          "Count": 3,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Evendo, Waking Haven"
+        },
+        {
+          "Count": 4,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ill-Timed Explosion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jennifer Walters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kona, Rescue Beastie"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "North Wind Avatar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omniscience"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Dragonstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shimmerwilds Growth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 4,
+          "CardName": "Uthros, Titanic Godcore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Willowrush Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Adagia, Windswept Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinguisher Battleship"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glorious Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Improvisation Capstone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jennifer Walters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "North Wind Avatar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omni-Changeling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quandrix, the Proof"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spider-Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
         }
       ]
     }
