@@ -224,6 +224,108 @@
     },
     {
       "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "JademOlavarrieta",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-0611137#deck_JademOlavarrieta",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Rage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Robber of the Rich"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunspine Lynx"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Eidolon of the Great Revel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flowstone Infusion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Maelstrom Artisan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scorching Shot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weathered Runestone"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
       "Player": "LucasObregon",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-0611137#deck_LucasObregon",
@@ -337,6 +439,176 @@
         {
           "Count": 2,
           "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "yutya",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-0611137#deck_yutya",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glacial Fortress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hengegate Pathway"
+        },
+        {
+          "Count": 2,
+          "CardName": "Irrigated Farmland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Omen of the Sea"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temporary Lockdown"
+        },
+        {
+          "Count": 1,
+          "CardName": "Test of Talents"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Archon of Emeria"
+        },
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Knockout Blow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kutzil's Flanker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yorion, Sky Nomad"
         }
       ]
     }
