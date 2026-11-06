@@ -1,0 +1,1294 @@
+{
+  "Tournament": {
+    "Date": "2026-11-06",
+    "Name": "Modern League",
+    "Uri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "AVC_MTG",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_AVC_MTG",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ranger-Captain of Eos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 4,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "kalla87",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_kalla87",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ranger-Captain of Eos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raise the Past"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unlicensed Hearse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "YopopMTG",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_YopopMTG",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day's Undoing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 3,
+          "CardName": "Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "wutang08",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_wutang08",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragon's Rage Channeler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Expressive Iteration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Islet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pompous Battlemage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Siege Smash"
+        },
+        {
+          "Count": 3,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unholy Heat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Unholy Heat"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "xTaq",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_xTaq",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Azusa, Lost but Seeking"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 3,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner's Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "masakitaro",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_masakitaro",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abstergo Entertainment"
+        },
+        {
+          "Count": 1,
+          "CardName": "All Is Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin's Labyrinth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ulamog, the Ceaseless Hunger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wastes"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cityscape Leveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kozilek, Butcher of Truth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liquimetal Coating"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Forge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulless Jailer"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Walking Ballista"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "HelpfulHobo",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_HelpfulHobo",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Inquisition of Kozilek"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ketramose, the New Dawn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "DERF1995",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_DERF1995",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Artist's Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hex Magic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinned Vision"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut Awakening"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Brotherhood's End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormscale Scion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wear // Tear"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "Juintatz",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-league-2026-11-0611161#deck_Juintatz",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 2,
+          "CardName": "Explore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner's Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smuggler's Surprise"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wurmcoil Engine"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

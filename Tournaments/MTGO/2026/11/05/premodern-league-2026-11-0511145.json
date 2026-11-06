@@ -114,6 +114,112 @@
     },
     {
       "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "FerGawdsSake",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0511145#deck_FerGawdsSake",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flash of Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 2,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 17,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Peek"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Dreadnought"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stifle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thwart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vision Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Back to Basics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brain Freeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Essence Flare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
       "Player": "DB_MurkPie",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0511145#deck_DB_MurkPie",
@@ -369,6 +475,254 @@
         {
           "Count": 4,
           "CardName": "Xantid Swarm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "RUCetFort",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0511145#deck_RUCetFort",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Accumulated Knowledge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flash of Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 1,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 17,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misdirection"
+        },
+        {
+          "Count": 3,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Dreadnought"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reality Ripple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stifle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thwart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vision Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Back to Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Essence Flare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intervene"
+        },
+        {
+          "Count": 2,
+          "CardName": "Powder Keg"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "pepa",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0511145#deck_pepa",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disenchant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 2,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rith's Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secluded Steppe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Thicket"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weathered Wayfarer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Werebear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warmth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zuran Orb"
         }
       ]
     }

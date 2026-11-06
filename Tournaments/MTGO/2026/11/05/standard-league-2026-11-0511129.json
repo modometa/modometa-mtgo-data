@@ -8,6 +8,136 @@
   "Decks": [
     {
       "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "Citrus",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_Citrus",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Chandra, Chill of Compliance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Countersculpt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorist's Sanctum"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Chill of Compliance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultima"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
       "Player": "sianes",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_sianes",
@@ -488,6 +618,258 @@
     },
     {
       "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "EMG70679",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_EMG70679",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cryptic Caves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 13,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mole Man, Moloid Master"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sandman, Shifting Scoundrel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warg Tactics"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "eresopacaso",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_eresopacaso",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Daydream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mockingbird"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 6,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 1,
+          "CardName": "Detect Intrusion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 3,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
       "Player": "Kritik",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_Kritik",
@@ -625,6 +1007,222 @@
         {
           "Count": 2,
           "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "Cereza",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_Cereza",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 10,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hushwood Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 3,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Surrak, Elusive Hunter"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-05T00:00:00+00:00",
+      "Player": "CheeseCakey",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0511129#deck_CheeseCakey",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aang, Swift Savior"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daydream"
+        },
+        {
+          "Count": 3,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mockingbird"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 9,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Avatar's Wrath"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
         }
       ]
     }

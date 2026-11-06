@@ -1,0 +1,166 @@
+{
+  "Tournament": {
+    "Date": "2026-11-06",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0611145",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "MikeOxlittle",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-0611145#deck_MikeOxlittle",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cataclysm"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enlightened Tutor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Leak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mishra's Factory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oath of Druids"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quiet Speculation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treva's Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volcanic Spray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hidden Gibbons"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warmth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zuran Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
