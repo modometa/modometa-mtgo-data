@@ -261,6 +261,498 @@
           "CardName": "Strategic Betrayal"
         }
       ]
+    },
+    {
+      "Date": "2026-11-07T00:00:00+00:00",
+      "Player": "JustCallMeJick",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0711129#deck_JustCallMeJick",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enlightened Confidant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Liliana the Faultless"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moseo, Vein's New Dean"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zora, Spider Fancier"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Arena"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 1,
+          "CardName": "Space-Time Anomaly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vicious Rivalry"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-07T00:00:00+00:00",
+      "Player": "ilprofetaVDR",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0711129#deck_ilprofetaVDR",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lorehold, the Historian"
+        },
+        {
+          "Count": 3,
+          "CardName": "Maelstrom of the Spirit Dragon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twinmaw Stormbrood"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-07T00:00:00+00:00",
+      "Player": "padreterno",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0711129#deck_padreterno",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daydream"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 9,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Theorist, Jace Beleren"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Avatar's Wrath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphinx of False Conclusions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider-Sense"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-07T00:00:00+00:00",
+      "Player": "Kritik",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0711129#deck_Kritik",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 4,
+          "CardName": "Accumulate Wisdom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Combustion Technique"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashback"
+        },
+        {
+          "Count": 4,
+          "CardName": "Geist of Saint Thalia"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jeskai Revelation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sundown Pass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tablet of Discovery"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Theorist, Jace Beleren"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 1,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thor, God of Thunder"
+        }
+      ]
     }
   ],
   "Rounds": [],
