@@ -603,6 +603,116 @@
           "CardName": "Torpor Orb"
         }
       ]
+    },
+    {
+      "Date": "2026-11-06T00:00:00+00:00",
+      "Player": "_Cygnus",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0611129#deck__Cygnus",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cosmogrand Zenith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daydream"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 7,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steamcore Scholar"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spectacular Spider-Man"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spider-Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Queen of Dale"
+        }
+      ]
     }
   ],
   "Rounds": [],
