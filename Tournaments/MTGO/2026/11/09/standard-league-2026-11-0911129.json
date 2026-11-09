@@ -1,0 +1,130 @@
+{
+  "Tournament": {
+    "Date": "2026-11-09",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-11-0911129",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-09T00:00:00+00:00",
+      "Player": "tim96",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-0911129#deck_tim96",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Basilisk Collar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragonfire Blade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwalin, Weaponmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dáin's Company"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kíli the Resourceful"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thorin, Mountain-king"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anzrag's Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bofur, Reliable Guardian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bovine Intervention"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shattered Acolyte"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
