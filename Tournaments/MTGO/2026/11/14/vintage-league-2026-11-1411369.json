@@ -474,6 +474,116 @@
     },
     {
       "Date": "2026-11-14T00:00:00+00:00",
+      "Player": "Fantaman95",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-11-1411369#deck_Fantaman95",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basking Rootwalla"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bazaar of Baghdad"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazing Rootwalla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Commandeer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hollow One"
+        },
+        {
+          "Count": 4,
+          "CardName": "Master of Death"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mental Misstep"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mindbreak Trap"
+        },
+        {
+          "Count": 3,
+          "CardName": "Noxious Revival"
+        },
+        {
+          "Count": 4,
+          "CardName": "Serum Powder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strip Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vengevine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Commandeer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Noxious Revival"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ravenous Trap"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-14T00:00:00+00:00",
       "Player": "4FunNoWin",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/vintage-league-2026-11-1411369#deck_4FunNoWin",
