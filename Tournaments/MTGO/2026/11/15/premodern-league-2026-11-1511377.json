@@ -1,0 +1,268 @@
+{
+  "Tournament": {
+    "Date": "2026-11-15",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-11-1511377",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-15T00:00:00+00:00",
+      "Player": "grixxgrixx",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-1511377#deck_grixxgrixx",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Cabal Archon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 3,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Supplicant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Diabolic Edict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Graveborn Muse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oath of Ghouls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Priest of Gix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rotlung Reanimator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scion of Darkness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smother"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 15,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Withered Wretch"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Bad Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Negator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plaguebearer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pox"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-15T00:00:00+00:00",
+      "Player": "SampsonS",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-11-1511377#deck_SampsonS",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Akroma, Angel of Wrath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Animate Dead"
+        },
+        {
+          "Count": 1,
+          "CardName": "Battlefield Scrounger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elvish Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hermit Druid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karmic Guide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Krosan Reclamation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Palinchron"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Devourer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Psychatog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reflecting Pool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 4,
+          "CardName": "Survival of the Fittest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treva's Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Triskelion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undiscovered Paradise"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unearth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Volrath's Shapeshifter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Yavimaya Coast"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghitu Slinger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monk Realist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Natural Order"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phantom Nishoba"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Uktabi Orangutan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Xantid Swarm"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
