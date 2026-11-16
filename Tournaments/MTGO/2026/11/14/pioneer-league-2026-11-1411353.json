@@ -407,6 +407,294 @@
           "CardName": "Weathered Runestone"
         }
       ]
+    },
+    {
+      "Date": "2026-11-14T00:00:00+00:00",
+      "Player": "darg24",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-1411353#deck_darg24",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 3,
+          "CardName": "Accumulate Wisdom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Combustion Technique"
+        },
+        {
+          "Count": 4,
+          "CardName": "Divide by Zero"
+        },
+        {
+          "Count": 4,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gran-Gran"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pop Quiz"
+        },
+        {
+          "Count": 2,
+          "CardName": "Questing Druid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tablet of Discovery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Willowrush Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Accumulate Wisdom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Combustion Technique"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fresh Start"
+        },
+        {
+          "Count": 1,
+          "CardName": "Improvisation Capstone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pop Quiz"
+        },
+        {
+          "Count": 1,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Questing Druid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokka's Haiku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-14T00:00:00+00:00",
+      "Player": "OafMcNamara",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-1411353#deck_OafMcNamara",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Academic Dispute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Axe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Proft's Eidetic Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser's Talent"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vivi Ornitier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Essence Burn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 1,
+          "CardName": "Improvisation Capstone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 1,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Octopus Form"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unable to Scream"
+        }
+      ]
     }
   ],
   "Rounds": [],
