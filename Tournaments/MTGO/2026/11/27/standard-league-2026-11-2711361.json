@@ -1,0 +1,418 @@
+{
+  "Tournament": {
+    "Date": "2026-11-27",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-11-2711361",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-27T00:00:00+00:00",
+      "Player": "VitorCarvalho01",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-2711361#deck_VitorCarvalho01",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 1,
+          "CardName": "Break Under Pressure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 2,
+          "CardName": "Salt Vampire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Cryomancer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Unicomplex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Uldaros Theorix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vraska's Final Mercy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cruelclaw's Heist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Georgiou, Terran Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "M.O.D.O.K."
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-27T00:00:00+00:00",
+      "Player": "solaec0501",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-2711361#deck_solaec0501",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Daydream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleaming Bastion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 6,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wondrous Wasp"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Avatar's Wrath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sphinx of False Conclusions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spider-Sense"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-27T00:00:00+00:00",
+      "Player": "_ZNT_",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-11-2711361#deck__ZNT_",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Precision"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gene Pollinator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lively Dirge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Obsessive Pursuit"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Umbral Collar Zealot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witherbloom Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wolverine, Fierce Fighter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Q, Stacking the Deck"
+        },
+        {
+          "Count": 2,
+          "CardName": "Test of Courage"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

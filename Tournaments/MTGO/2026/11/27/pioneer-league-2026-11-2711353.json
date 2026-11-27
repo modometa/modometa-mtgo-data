@@ -1,0 +1,110 @@
+{
+  "Tournament": {
+    "Date": "2026-11-27",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-2711353",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2026-11-27T00:00:00+00:00",
+      "Player": "T1_Tinker",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-2711353#deck_T1_Tinker",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Castle Locthwain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cecil, Dark Knight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Confidant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gix, Yawgmoth Praetor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gollum, Riddle Master"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hive of the Eye Tyrant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Amber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Salt Vampire"
+        },
+        {
+          "Count": 11,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tinybones, the Pickpocket"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phyrexian Obliterator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

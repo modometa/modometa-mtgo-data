@@ -142,6 +142,120 @@
     },
     {
       "Date": "2026-11-26T00:00:00+00:00",
+      "Player": "sia76y",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-2611353#deck_sia76y",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lively Dirge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mayhem Devil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shambling Ghast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shrapnel Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-11-26T00:00:00+00:00",
       "Player": "Elioda",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-11-2611353#deck_Elioda",
